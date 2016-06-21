@@ -1,2 +1,2 @@
 Sample Content Merge Update
-Branch Update From NewBranch
+Branch Update From NewBranch 2
