@@ -5,3 +5,4 @@ Branch Update From NewBranch
 Master Update Rebase
 Branch Rebase Test 1
 Branch Rebase Test 2
+Branch Rebase Test 3
